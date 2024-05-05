@@ -56,7 +56,7 @@ var workers = time / timeOneWorker;
         System.out.println("Всего работников в компании —" + " " + workers + " " + "человек");
         var moreWorkers = workers + 94;
         var totalTime = moreWorkers * timeOneWorker;
-        System.out.println("Если в компании работает" + " " + moreWorkers + " " + "человек, то всего" + " " + totalTime + " " + "часов работы может быть поделено между сотрудниками");
+        System.out.println("Если в компании работает"  + " " + moreWorkers + " " + "человек, то всего" + " " + totalTime + " " + "часов работы может быть поделено между сотрудниками");
     }
 
 
